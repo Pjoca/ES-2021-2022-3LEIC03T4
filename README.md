@@ -4,8 +4,8 @@
 
 ## Elementos
 
-- João Alves up201810087 (https://github.com/SilvaFeup)
-- João Silva up201906478 (https://github.com/JGFA00)
+- João Alves up201810087 (https://github.com/JGFA00)
+- João Silva up201906478 (https://github.com/SilvaFeup)
 - Pedro Paixão up202008467 (https://github.com/Pjoca)
 - Alexandre Afonso up201805455 (https://github.com/up201805455)
 - Carolina Ferreira up201905810
